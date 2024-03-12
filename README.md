@@ -33,5 +33,6 @@ Front-end react developper
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-### Badges<b>My GitHub Stats</b><a
-href="http://www.github.com/jorisderidder42"><img src="https://github-readme-stats.vercel.app/api?username=jorisderidder42&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jorisderidder42's GitHub stats" /></a><a href="https://github.com/jorisderidder42" align="left">
+                    
+### Badges<b>My GitHub Stats</b>
+<a href="http://www.github.com/jorisderidder42"><img src="https://github-readme-stats.vercel.app/api?username=jorisderidder42&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jorisderidder42's GitHub stats" /></a><a href="https://github.com/jorisderidder42" align="left">
