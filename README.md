@@ -34,4 +34,4 @@ Front-end react developper
                     </picture>
                     </a></p>
 ### Badges<b>My GitHub Stats</b><a
-href="http://www.github.com/jorisderidder42"><img src="https://github-readme-stats.vercel.app/api?username=jorisderidder42&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jorisderidder42's GitHub stats" /></a><a href="https://github.com/jorisderidder42" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorisderidder42&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+href="http://www.github.com/jorisderidder42"><img src="https://github-readme-stats.vercel.app/api?username=jorisderidder42&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jorisderidder42's GitHub stats" /></a><a href="https://github.com/jorisderidder42" align="left">
