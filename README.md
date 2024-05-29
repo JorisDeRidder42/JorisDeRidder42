@@ -7,9 +7,9 @@ Front-end react developper
 ...
 
 *   🌍  I'm based in Belgium
-*   🖥️  See my portfolio at [Portfolio](http://https://joris42.sinners.be/)
+*   🖥️  See my portfolio at [Portfolio](http://joris42.sinners.be/)
 *   ✉️  You can contact me at [Jorisderidder@outlook.be](mailto:jorisderidder@outlook.be)
-*   🚀  I'm currently working on [Elden ring app] (http://localhost5130)
+*   🚀  I'm currently working on [Elden ring app]
 *   🧠  I'm learning React
 
 ### Skills 
